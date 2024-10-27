@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\linQ next homework\linQ next homework\bin\Debug\linQ next homework.exe.config
+C:\Users\User\source\repos\linQ next homework\linQ next homework\bin\Debug\linQ next homework.exe
+C:\Users\User\source\repos\linQ next homework\linQ next homework\bin\Debug\linQ next homework.pdb
+C:\Users\User\source\repos\linQ next homework\linQ next homework\obj\Debug\linQ next homework.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\linQ next homework\linQ next homework\obj\Debug\linQ next homework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\linQ next homework\linQ next homework\obj\Debug\linQ next homework.exe
+C:\Users\User\source\repos\linQ next homework\linQ next homework\obj\Debug\linQ next homework.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\linQ next homework\task 2\bin\Debug\task 2.exe.config
+C:\Users\User\source\repos\linQ next homework\task 2\bin\Debug\task 2.exe
+C:\Users\User\source\repos\linQ next homework\task 2\bin\Debug\task 2.pdb
+C:\Users\User\source\repos\linQ next homework\task 2\obj\Debug\task 2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\linQ next homework\task 2\obj\Debug\task 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\linQ next homework\task 2\obj\Debug\task 2.exe
+C:\Users\User\source\repos\linQ next homework\task 2\obj\Debug\task 2.pdb
